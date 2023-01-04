@@ -1,0 +1,205 @@
+[
+  {
+    "id": 1,
+    "testCase": "DE B2C listing on DE ship to DE",
+    "bundleFeeCharged": "Yes",
+    "intlFeeCharged": "No",
+    "SellerId": "p2de.seller03/getpass123",
+    "orderId": "24-00036-86482"
+  },
+  {
+    "id": 2,
+    "testCase": "US B2C Store listing on DE ship to US Intl fee",
+    "bundleFeeCharged": "Yes",
+    "intlFeeCharged": "Yes",
+    "SellerId": "uscaucasususer20221222153417890/getpass123",
+    "orderId": "21-00037-70941"
+  },
+  {
+    "id": 3,
+    "testCase": "DE C2C listing on DE ship to DE",
+    "bundleFeeCharged": "No",
+    "intlFeeCharged": "No",
+    "SellerId": "heinrichbll16083049398761/getpass123",
+    "orderId": "12-00037-40992"
+  },
+  {
+    "id": 4,
+    "testCase": "DE C2C listing on DE ship to Macedonia INTL fee",
+    "bundleFeeCharged": "No",
+    "intlFeeCharged": "Yes",
+    "SellerId": "heinrichbll16083049398761/getpass123",
+    "orderId": "21-00037-25035"
+  },
+  {
+    "id": 5,
+    "testCase": "DE C2C listing on DE ship to US INTL fee",
+    "bundleFeeCharged": "No",
+    "intlFeeCharged": "Yes",
+    "SellerId": "heinrichbll16083049398761/getpass123",
+    "orderId": "22-00037-06475"
+  },
+  {
+    "id": 6,
+    "testCase": "DE C2C listing on DE ship to UK with INTL fee",
+    "bundleFeeCharged": "No",
+    "intlFeeCharged": "Yes",
+    "SellerId": "heinrichbll16083049398761/getpass123",
+    "orderId": "27-00037-35200"
+  },
+  {
+    "id": 7,
+    "testCase": "DE C2C listing on DE ship to FR with INTL + PLS",
+    "bundleFeeCharged": "No",
+    "intlFeeCharged": "Yes+PLS",
+    "SellerId": "heinrichbll16083049398761/getpass123",
+    "orderId": "19-00037-48138"
+  },
+  {
+    "id": 8,
+    "testCase": "DE C2C listing on DE ship to DE with PLS",
+    "bundleFeeCharged": "No",
+    "intlFeeCharged": "No, PLS only",
+    "SellerId": "heinrichbll16083049398761/getpass123",
+    "orderId": "06-00037-80531"
+  },
+  {
+    "id": 9,
+    "testCase": "Macedonia C2C listing on DE ship to DE",
+    "bundleFeeCharged": "No",
+    "intlFeeCharged": "Yes",
+    "SellerId": "heinrichbll16083049398761/getpass123",
+    "orderId": "24-00037-03666"
+  },
+  {
+    "id": 10,
+    "testCase": "Macedonia C2C listing on DE ship to Macedonia",
+    "bundleFeeCharged": "No",
+    "intlFeeCharged": "Yes",
+    "SellerId": "heinrichbll16083049398761/getpass123",
+    "orderId": "06-00037-80590"
+  },
+  {
+    "id": 11,
+    "testCase": "Macedonia C2C listing on DE ship to UK",
+    "bundleFeeCharged": "No",
+    "intlFeeCharged": "Yes",
+    "SellerId": "heinrichbll16083049398761/getpass123",
+    "orderId": "05-00037-80690"
+  },
+  {
+    "id": 12,
+    "testCase": "Macedonia C2C listing on DE ship to FR in FR checkout",
+    "bundleFeeCharged": "No",
+    "intlFeeCharged": "Yes",
+    "SellerId": "heinrichbll16083049398761/getpass123",
+    "orderId": "26-00037-34283"
+  },
+  {
+    "id": 13,
+    "testCase": "Macedonia C2C listing on DE ship to US in US checkout",
+    "bundleFeeCharged": "No",
+    "intlFeeCharged": "Yes",
+    "SellerId": "heinrichbll16083049398761/getpass123",
+    "orderId": "03-00037-70817"
+  },
+  {
+    "id": 14,
+    "testCase": "FR C2C listing on DE ship to DE",
+    "bundleFeeCharged": "No",
+    "intlFeeCharged": "No",
+    "SellerId": "harrypotter16105531616401/getpass123",
+    "orderId": "20-00037-56081"
+  },
+  {
+    "id": 15,
+    "testCase": "FR C2C listing on DE ship to FR",
+    "bundleFeeCharged": "No",
+    "intlFeeCharged": "No",
+    "SellerId": "harrypotter16105531616401/getpass123",
+    "orderId": "06-00037-67778"
+  },
+  {
+    "id": 16,
+    "testCase": "FR C2C with Store Sub listing on DE ship to DE",
+    "bundleFeeCharged": "No",
+    "intlFeeCharged": "No",
+    "SellerId": "harrypotter16105531616401/getpass123",
+    "orderId": "17-00037-77130"
+  },
+  {
+    "id": 17,
+    "testCase": "UK C2C listing on DE ship to DE",
+    "bundleFeeCharged": "No",
+    "intlFeeCharged": "No",
+    "SellerId": "harrypotter16105531616401/getpass123",
+    "orderId": "14-00037-46491"
+  },
+  {
+    "id": 18,
+    "testCase": "UK C2C listing on DE ship to US Intl fee",
+    "bundleFeeCharged": "No",
+    "intlFeeCharged": "Yes",
+    "SellerId": "harrypotter16105531616401/getpass123",
+    "orderId": "20-00037-42891"
+  },
+  {
+    "id": 19,
+    "testCase": "UK C2C listing on DE ship to UK",
+    "bundleFeeCharged": "No",
+    "intlFeeCharged": "No",
+    "SellerId": "harrypotter16105531616401/getpass123",
+    "orderId": "02-00038-36955"
+  },
+  {
+    "id": 20,
+    "testCase": "UK C2C listing on DE ship to FR Intl fee",
+    "bundleFeeCharged": "No",
+    "intlFeeCharged": "Yes",
+    "SellerId": "harrypotter16105531616401/getpass123",
+    "orderId": "08-00038-03417",
+    "notes": "Currency conversion bug \n <a>https://github.corp.ebay.com/SellerHub/shorder/pull/1349</a>"
+  },
+  {
+    "id": 21,
+    "testCase": "UK C2C with Store Sub listing on DE ship to US intl fee",
+    "bundleFeeCharged": "No",
+    "intlFeeCharged": "Yes",
+    "SellerId": "harrypotter16105531616401/getpass123",
+    "orderId": "24-00037-34834",
+    "notes": "Currency conversion bug \n <a>https://github.corp.ebay.com/SellerHub/shorder/pull/1349</a>"
+  },
+  {
+    "id": 22,
+    "testCase": "US C2C listing on DE ship to DE",
+    "bundleFeeCharged": "Yes",
+    "intlFeeCharged": "Yes",
+    "SellerId": "newussellerpt2_b/getpass123",
+    "orderId": "25-00037-78851",
+    "notes": "NO fee - NO transaction in payments tab - looks like an issue with payment processing (orders are not fee netted) Please check new order created in new seller and have bug opened if needed - No fees are displayed in Payments (Payment is stuck in processing state) - <a>https://www.de.paradise.qa.ebay.com/mes/transactiondetails?type=ORDER&ordid=23-00037-57673</a> \n uscaucasususer20221223115105638/getpass123    23-00037-57673"
+  },
+  {
+    "id": 23,
+    "testCase": "US C2C listing on DE ship to US",
+    "bundleFeeCharged": "Yes",
+    "intlFeeCharged": "Yes",
+    "SellerId": "newussellerpt2_b/getpass123",
+    "orderId": "16-00037-91425"
+  },
+  {
+    "id": 24,
+    "testCase": "US C2C listing on DE ship to UK",
+    "bundleFeeCharged": "Yes",
+    "intlFeeCharged": "Yes",
+    "SellerId": "newussellerpt2_b/getpass123",
+    "orderId": "21-00037-61523"
+  },
+  {
+    "id": 25,
+    "testCase": "US C2C listing on DE ship to FR",
+    "bundleFeeCharged": "Yes",
+    "intlFeeCharged": "Yes",
+    "SellerId": "newussellerpt2_b/getpass123",
+    "orderId": "03-00038-07687"
+  }
+]

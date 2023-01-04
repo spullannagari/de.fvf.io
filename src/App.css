@@ -1,5 +1,6 @@
 .App {
-  text-align: center;
+  text-align: left;
+  font-size: x-large;
 }
 
 .App-logo {
@@ -35,4 +36,25 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.thead-dark {
+  background-color: black;
+  color: white;
+}
+
+a {
+  text-decoration: underline !important;
+  color: blue !important;
+  cursor: pointer !important;
+}
+
+.ReactModal__Content,
+.ReactModal__Content--after-open {
+  inset: 50px !important;
+}
+
+tbody tr:hover {
+  background-color: aqua;
+  cursor: pointer;
 }
